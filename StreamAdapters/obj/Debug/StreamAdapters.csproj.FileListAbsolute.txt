@@ -1,0 +1,12 @@
+C:\AdvProg\StreamAdapters\StreamAdapters\bin\Debug\StreamAdapters.exe.config
+C:\AdvProg\StreamAdapters\StreamAdapters\bin\Debug\StreamAdapters.exe
+C:\AdvProg\StreamAdapters\StreamAdapters\bin\Debug\StreamAdapters.pdb
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.csprojResolveAssemblyReference.cache
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.Form1.resources
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.Properties.Resources.resources
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.csproj.GenerateResource.Cache
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.exe
+C:\AdvProg\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.pdb
+C:\Users\samue\Desktop\advprogramming\StreamAdapters\StreamAdapters\bin\Debug\StreamAdapters.exe.config
+C:\Users\samue\Desktop\advprogramming\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.exe
+C:\Users\samue\Desktop\advprogramming\StreamAdapters\StreamAdapters\obj\Debug\StreamAdapters.pdb
